@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"!$Myself","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"休闲","nickname":"","note":"<body:circle><r:1>\n<friction:0.12>\n<frictionAir:0.08>\n<restitution:0.5>\n<noRotate>","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"!$MyselfTroop","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"军训","nickname":"","note":"<body:circle><r:1>\n<friction:0.12>\n<frictionAir:0.08>\n<restitution:0.5>\n<noRotate>","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"!$MyselfBicycle","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"自行车","nickname":"","note":"<body:circle><r:1>\n<friction:0.02>\n<frictionAir:0.02>\n<restitution:0.05>\n<noRotate>","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"!$MyselfGo","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"行李箱","nickname":"","note":"<body:circle><r:1>\n<friction:0.12>\n<frictionAir:0.08>\n<restitution:0.5>\n<noRotate>","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
